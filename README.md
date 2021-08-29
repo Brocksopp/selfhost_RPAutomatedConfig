@@ -23,3 +23,8 @@ Based off a guide (https://geoffhudik.com/tech/2020/04/27/automating-raspberry-p
 * Prompts user to change password
 * Installs Docker + sets up user account
 * Reboot
+
+
+![image](https://user-images.githubusercontent.com/9350814/131260792-d969f6ca-b904-44d7-9d16-d3c0432f9000.png)
+
+
