@@ -7,7 +7,7 @@ Based off a guide (https://geoffhudik.com/tech/2020/04/27/automating-raspberry-p
 ## Steps
 
 1. Create a new boot SD card for a target RaspberryPi 
-1. Copy the files from the repo (and customise the wpa_supplicant.conf file)
+1. Copy the files from the repo (and customise the wpa_supplicant.conf file) to the boot folder on the SD card
 1. Insert SD card in Pi and power on
 1. Locate pi on local netork. 
 1. SSH `ssh pi@raspberrypi`
