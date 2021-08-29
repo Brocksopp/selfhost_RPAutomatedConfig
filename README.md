@@ -18,3 +18,8 @@ Based off a guide (https://geoffhudik.com/tech/2020/04/27/automating-raspberry-p
 
 `sudo /boot/setup2.sh --host RP4Dev2`
 
+## What does it do?
+* changes the hostname of the pi so it can be addressed directly. e.g. "rp4dev2.local" instead of an IP address
+* Prompts user to change password
+* Installs Docker + sets up user account
+* Reboot
